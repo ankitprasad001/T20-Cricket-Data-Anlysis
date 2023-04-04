@@ -53,7 +53,8 @@
 
 # Final Team of 11
 
-![image](https://user-images.githubusercontent.com/48627152/229908982-ddb379fa-4090-4110-9646-68b925cd8cd8.png)
+![image](https://user-images.githubusercontent.com/48627152/229909687-816b0776-8836-40d3-9de6-3efe4755fb7e.png)
+
 
 
 
