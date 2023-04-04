@@ -2,7 +2,7 @@
 
 # Shortlisted Candidates for Openers
   Shortlist Criteria:-
-      1. Batting Average > 30<br />
+      1. Batting Average > 30 <br />
       2. Batting Position < 4
       3. Boundary % > 50%
       4. Strike Rate > 140
